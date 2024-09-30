@@ -1,0 +1,16 @@
+{
+  "name": "gpt-chrome-extension",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "4.64.0"
+  },
+  "description": "gpt extension for chrome",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
